@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      SERVER: admin.tmmk.in
+      SERVER: adminpanel.tmmk.in
 
     steps:
     - name: Get latest code
